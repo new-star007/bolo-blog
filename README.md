@@ -10,11 +10,11 @@
 
 ### 最新
 
-* [什么？java的ThreadLocal可能会产生内存泄露！](https://null:-1/articles/2022/10/24/1666619468874.html)
-* [如何替换jar包中的class](https://null:-1/articles/2022/10/19/1666180571722.html)
-* [git 命令总结](https://null:-1/articles/2022/10/18/1666082521727.html)
-* [java 的四种引用类型](https://null:-1/articles/2022/10/18/1666082288442.html)
-* [windows vue 开发环境搭建](https://null:-1/articles/2022/10/18/1666081115227.html)
+* [什么？java的ThreadLocal可能会产生内存泄露！](https://39.100.229.204/articles/2022/10/24/1666619468874.html)
+* [如何替换jar包中的class](https://39.100.229.204/articles/2022/10/19/1666180571722.html)
+* [git 命令总结](https://39.100.229.204/articles/2022/10/18/1666082521727.html)
+* [java 的四种引用类型](https://39.100.229.204/articles/2022/10/18/1666082288442.html)
+* [windows vue 开发环境搭建](https://39.100.229.204/articles/2022/10/18/1666081115227.html)
 
 
 
